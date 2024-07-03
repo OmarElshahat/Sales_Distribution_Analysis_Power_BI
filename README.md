@@ -15,4 +15,6 @@ Importing your data into Power BI and creating your data model. Once your data i
 
 ![](Images/2.png)
 
+# Final Dashboard Layout
+
 ![](Images/0.png)
