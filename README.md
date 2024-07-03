@@ -1,5 +1,5 @@
-# Revenue Margin Analysis
-Appling skills to ivestigate revenue and margin.
+# Sales Distribution Analysis
+Appling skills to ivestigate sales distribution.
 
 ## Implemntaion Steps
 ### Step 1: Data Modeling and EDA.
